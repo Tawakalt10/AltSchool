@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: cadetblue;
+}
+
+#about{
+    margin: 1rem;
+    padding: 2rem;
+}
+h4{
+    margin: 1rem;
+    padding: .5rem;
+}
+
+p{
+    margin: .2rem;
+    padding: .1rem;
+}
+
+input{
+    margin: .1rem;
+    padding: .1rem;
+}
