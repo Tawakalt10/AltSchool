@@ -4,17 +4,28 @@
     padding: 0;
 }
 
-body{
-    background-color: cadetblue;
-}
 
+.container{
+    height: 100vh;
+    background-color: rgb(20, 23, 23);
+    color: #fff;
+    width: 100%;
+    height: 90vh;
+}
 #about{
     margin: 1rem;
     padding: 2rem;
+    
 }
+
 h4{
     margin: 1rem;
     padding: .5rem;
+    font-weight: bolder;
+}
+ 
+span{
+    color: #BDE8CA;
 }
 
 p{
@@ -25,4 +36,70 @@ p{
 input{
     margin: .1rem;
     padding: .1rem;
+}
+
+.goal{
+    margin: 2rem;
+}
+.form{
+    text-decoration: none;
+    color: #BDE8CA;
+    font-weight: bolder;
+    border: 1px solid  white;
+    padding: .3rem;
+    margin: 2rem ;
+}
+
+.assignment2{
+    text-decoration: none;
+    color: #BDE8CA;
+    font-weight: bolder;
+    border: 1px solid  white;
+    padding: .3rem;
+    margin: 5rem ;
+
+}
+
+label{
+    margin: .2rem;
+    padding: .2rem;
+
+}
+
+input{
+    margin: .2rem;
+    padding: .5rem;
+}
+
+.submit{
+    margin: 1rem;
+    padding: .5rem;
+    width: 8rem;
+    background-color: #AD49E1;
+     color: #fff;
+     outline: none;
+     border: 1px  solid white;
+}
+
+.about-me{
+    text-decoration: none;
+    color: #BDE8CA;
+    font-weight: bolder;
+    border: 1px solid  white;
+    padding: .3rem;
+    margin: 5rem ;
+
+}
+.sign-up{
+    margin: .5rem;
+    font-weight: bolder;
+}
+
+.next-step{
+    margin: .5rem;
+}
+
+.form-info{
+    margin-left: 1rem;
+    
 }
